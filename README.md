@@ -1,4 +1,6 @@
 # PotholeDetection
 Pothole Detection using HOG and ANN
 
-![Alt text](data/results/00000001.avi?raw=true "Title")
+<video width="500" height="200" controls>
+  <source src="00000001.mp4" type="video/mp4">
+</video>
